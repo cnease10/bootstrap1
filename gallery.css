@@ -1,0 +1,20 @@
+body {
+	padding: 70px;
+}
+
+.jumbo-tron {
+	color: #2c3e50
+	background: #9F93DD;
+}
+
+.navbar-inverse {
+	background: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
